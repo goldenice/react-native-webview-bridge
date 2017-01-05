@@ -10,6 +10,8 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 
+#import <objc/runtime.h>
+
 #import "RCTWebViewBridge.h"
 
 #import <UIKit/UIKit.h>
